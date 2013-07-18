@@ -1,0 +1,8 @@
+#Sinatra server app for providing html with json to make requests to websocket server
+ruby sinatra_server.rb
+
+# run web-socket server 
+ruby server.rb
+
+
+# client session close not supported, perhaps will be errors )
